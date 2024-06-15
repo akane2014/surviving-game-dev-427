@@ -1,2 +1,0 @@
-D:\Unreal Projects\surviving-game-dev-427\SurvivingGameDev\Intermediate\Build\Win64\UE4Editor\Development\SurvivingGameDev\Definitions.SurvivingGameDev.h
-D:\Unreal Projects\surviving-game-dev-427\SurvivingGameDev\Source\SurvivingGameDev\SurvivingGameDev.h
