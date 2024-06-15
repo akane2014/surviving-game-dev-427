@@ -1,0 +1,3 @@
+D:\Unreal Projects\surviving-game-dev-427\SurvivingGameDev\Intermediate\Build\Win64\UE4Editor\Development\SurvivingGameDev\Definitions.SurvivingGameDev.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

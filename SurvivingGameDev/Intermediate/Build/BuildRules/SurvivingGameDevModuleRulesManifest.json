@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\surviving-game-dev-427\\SurvivingGameDev\\Source\\SurvivingGameDev\\SurvivingGameDev.Build.cs",
+		"D:\\Unreal Projects\\surviving-game-dev-427\\SurvivingGameDev\\Source\\SurvivingGameDev.Target.cs",
+		"D:\\Unreal Projects\\surviving-game-dev-427\\SurvivingGameDev\\Source\\SurvivingGameDevEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
